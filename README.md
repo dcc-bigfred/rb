@@ -11,6 +11,9 @@ make build    # bin/rb
 make test
 ```
 
+Tagged `v*` pushes publish a GitHub Release with `rb-linux-amd64` and
+`rb-linux-arm64` (see [Releases](https://github.com/dcc-bigfred/rb/releases)).
+
 ## Sound slots
 
 ```bash
